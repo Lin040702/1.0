@@ -9,5 +9,5 @@
 觀看影片
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Never Gonna Give You Up</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dQw4w9WgXcQ" target="_blank"><img src="http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
-alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
+alt="Never Gonna Give You Up" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
