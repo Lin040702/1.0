@@ -1,5 +1,5 @@
 <img src="QR.jpg">
-<br>
+
 |項次|項目|內容|
 |---|---|---|
 |1|圖片|<img src="Kirby.png">|
