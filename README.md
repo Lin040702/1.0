@@ -16,10 +16,20 @@
 
 </summary>
 
+<img src="NKUST.png">
+
+國立高雄科技大學(簡稱高科大)係由國立高雄應用科技大學、國立高雄第一科技大學及國立高雄海洋科技大學於2018年2月1日合併成立之新大學，為全國規模最大之科技大學。
+
+高科大目前共設有5個校區，分別為建工校區、燕巢校區、第一校區、楠梓校區及旗津校區，校地面積合計為216.1公頃，提供學生優質多元之學習環境。
+
+建工校區/燕巢校區：原「國立高雄應用科技大學」，土地面積為119.5 公頃。建工校區位處高雄市三民區建工商圈，地點極佳、生活機能便利，設有工學院及電資學院。燕巢校區依山傍水，校園生態豐富，設有管理學院及人文社會學院。
+第一校區：原「國立高雄第一科技大學」，校地橫跨高雄市燕巢區及楠梓區，土地面積為73.4公頃。第一校區又分設教學行政區及運動休憩區，以大學橋聯繫其間交通，幅員遼闊、校景優美，設有工學院、電機資訊學院、管理學院、財金學院及外語學院。
+楠梓校區/旗津校區：原「國立高雄海洋科技大學」，土地面積為23.2 公頃。楠梓校區鄰近高雄捷運後勁站，交通便利，設有管理學院、水圈學院及海洋工程學院。旗津校區為船員訓練中心基地，擁有國內唯一之學校專屬碼頭，設有海事學院
+
 
 觀看影片
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Never Gonna Give You Up</a><br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dQw4w9WgXcQ" target="_blank"><img src="http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
+<a href="https://www.youtube.com/watch?v=j7-xyy6JuK0" target="_blank">NKUST Jiangong Campus</a><br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=j7-xyy6JuK0" target="_blank"><img src="http://img.youtube.com/vi/j7-xyy6JuK0/0.jpg" 
 alt="Never Gonna Give You Up" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 </details>
